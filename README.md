@@ -1,2 +1,1 @@
-each folder contain a solution problem
-the folder's name is the code of problem in except the prefix UVA
+Cada pasta tem a solução do problema que o código é o nome da pasta.
